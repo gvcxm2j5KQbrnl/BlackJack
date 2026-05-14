@@ -1,6 +1,6 @@
 # BlackJack
 
-My own version of the popular game [Blackjack](https://en.wikipedia.org/wiki/Blackjack)
+My own version of the popular game [Blackjack](https://en.wikipedia.org/wiki/Blackjack)<br>
 This version will have a few tweaks like;
 
 - [ ] Make the already played cards append to the end of the deck e.g 1,2...51,52 -> 4,5,6...52,1,2 
