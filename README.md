@@ -16,7 +16,7 @@ For this I'll be using "pygame", a python library made for game development.
 
 This game was meant to be a project for me, in order to learn python and become more comfortable working with it.
 
- See my [other python project](https://github.com/gvcxm2j5KQbrnl/Local-Password-Manager)
+ See my [other python project](https://github.com/gvcxm2j5KQbrnl/Local-Password-Manager).
 
 ---
 
