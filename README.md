@@ -7,6 +7,7 @@ This version will have a few tweaks like;
 - [ ] Change the looks of the deck, have light and dark versions.
 - [ ] Change the break value from 21 to x
 - [ ] Online mode to play with friends (far fetched)
+- [ ] Implementation in browser
 
 
 For this I'll be using "pygame", a python library made for game development.
